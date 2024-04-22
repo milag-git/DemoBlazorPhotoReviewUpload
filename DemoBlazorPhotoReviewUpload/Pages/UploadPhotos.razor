@@ -105,8 +105,11 @@
     private string HideDivDisplay { get; set; } = "inline-block";
     private int currentFileSelection = 0;
     private string message = "Photos";
+    //ImageList will hold all the photos added
     private Dictionary<string, string> ImageList = new Dictionary<string, string>();
     private int maxAllowedFiles = 10;
+    //ImageDict will hold the content of the Image Files added
+
     private Dictionary<string, IBrowserFile> ImageDict = new Dictionary<string, IBrowserFile>();
 
     private void loadmessage()
@@ -129,6 +132,11 @@
             await resizedImageFile.OpenReadStream().ReadAsync(buffer);
             string guidvar = Guid.NewGuid().ToString();
             var ImageDataUrl = $"data:{format};base64,{Convert.ToBase64String(buffer)}";
+
+            //Add the same key to both dictionaries, one holding the ImageURL and the other holding the actual Image content
+            //The ImageURL is used to display the image in Preview usimg the mudcard component
+
+
             ImageList.Add(guidvar, ImageDataUrl);
             ImageDict.Add(guidvar, imageFile);
             this.StateHasChanged();
@@ -138,6 +146,8 @@
     }
     private void RemoveImage(string key)
     {
+        //Removing the same key from both dictionaries removes the ImageURL and the Image content
+
         message = "Photos";
         ImageList.Remove(key);
         ImageDict.Remove(key);
@@ -162,6 +172,7 @@
             {
                 content.Add(file.Value);
             }
+            //The file contents left in ImageDict are the images uploaded to the server
 
             _UploadProjectPhotosData.UploadFile(content);
             ImageList.Clear();
