@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\c135397c-75c0-4f36-9a0e-558e2858b505\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\demoblazorphotoreviewupload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\pages\\uploadphotos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\pages\\uploadphotos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\services\\uploadphotodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\services\\uploadphotodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\services\\interfaces\\iuploadphotodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\services\\interfaces\\iuploadphotodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\shared\\mynavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\shared\\mynavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|c:\\users\\milag\\source\\repos\\demoblazorphotoreviewupload\\demoblazorphotoreviewupload\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8468340A-C8E7-4277-8C8C-5842DEBAA577}|DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj|solutionrelative:demoblazorphotoreviewupload\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\c135397c-75c0-4f36-9a0e-558e2858b505\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c135397c-75c0-4f36-9a0e-558e2858b505\\secrets.json",
+              "ToolTip": "C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\c135397c-75c0-4f36-9a0e-558e2858b505\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c135397c-75c0-4f36-9a0e-558e2858b505\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T18:42:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoBlazorPhotoReviewUpload",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T18:41:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadPhotos.razor",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Pages\\UploadPhotos.razor",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Pages\\UploadPhotos.razor",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Pages\\UploadPhotos.razor",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Pages\\UploadPhotos.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAIcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:08:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUploadPhotoData.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Services\\Interfaces\\IUploadPhotoData.cs",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Services\\Interfaces\\IUploadPhotoData.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Services\\Interfaces\\IUploadPhotoData.cs",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Services\\Interfaces\\IUploadPhotoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:03:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Shared\\MyNavMenu.razor",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Shared\\MyNavMenu.razor",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Shared\\MyNavMenu.razor",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Shared\\MyNavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:58:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:55:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Program.cs",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Program.cs",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:54:39.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadPhotoData.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Services\\UploadPhotoData.cs",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Services\\UploadPhotoData.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Services\\UploadPhotoData.cs",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Services\\UploadPhotoData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:52:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\_Imports.razor",
+              "RelativeDocumentMoniker": "DemoBlazorPhotoReviewUpload\\_Imports.razor",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\DemoBlazorPhotoReviewUpload\\DemoBlazorPhotoReviewUpload\\_Imports.razor",
+              "RelativeToolTip": "DemoBlazorPhotoReviewUpload\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:52:22.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
